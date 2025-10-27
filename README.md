@@ -24,5 +24,4 @@ Python · pandas · scikit-learn · matplotlib · seaborn · shap
 - `data.csv` – Raw dataset  
 - `cleaned_data_imputed3.csv` – Processed dataset  
 - `shap_beeswarm_*.png` – SHAP visualizations  
-- `documentationv2.docx` – Draft report  
-- `Final Report.pdf` – Final analysis and recommendations  
+- `documentationv2.docx` – Notes for the main flow of this project  
